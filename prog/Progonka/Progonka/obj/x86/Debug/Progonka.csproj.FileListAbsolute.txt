@@ -1,0 +1,25 @@
+\\csfs\home$\derkanosov_a_s\profile\my documents\visual studio 2010\Projects\Progonka\Progonka\obj\x86\Debug\ResolveAssemblyReference.cache
+\\csfs\home$\derkanosov_a_s\profile\my documents\visual studio 2010\Projects\Progonka\Progonka\obj\x86\Debug\Progonka.Form1.resources
+\\csfs\home$\derkanosov_a_s\profile\my documents\visual studio 2010\Projects\Progonka\Progonka\obj\x86\Debug\Progonka.Properties.Resources.resources
+\\csfs\home$\derkanosov_a_s\profile\my documents\visual studio 2010\Projects\Progonka\Progonka\obj\x86\Debug\GenerateResource.read.1.tlog
+\\csfs\home$\derkanosov_a_s\profile\my documents\visual studio 2010\Projects\Progonka\Progonka\obj\x86\Debug\GenerateResource.write.1.tlog
+\\csfs\home$\derkanosov_a_s\profile\my documents\visual studio 2010\Projects\Progonka\Progonka\bin\Debug\Progonka.exe
+\\csfs\home$\derkanosov_a_s\profile\my documents\visual studio 2010\Projects\Progonka\Progonka\bin\Debug\Progonka.pdb
+\\csfs\home$\derkanosov_a_s\profile\my documents\visual studio 2010\Projects\Progonka\Progonka\obj\x86\Debug\Progonka.exe
+\\csfs\home$\derkanosov_a_s\profile\my documents\visual studio 2010\Projects\Progonka\Progonka\obj\x86\Debug\Progonka.pdb
+E:\Progonka\Progonka\obj\x86\Debug\Progonka.exe
+E:\Progonka\Progonka\obj\x86\Debug\Progonka.pdb
+E:\Progonka\Progonka\bin\Debug\Progonka.exe
+E:\Progonka\Progonka\bin\Debug\Progonka.pdb
+E:\Progonka\Progonka\obj\x86\Debug\Progonka.Form1.resources
+E:\Progonka\Progonka\obj\x86\Debug\Progonka.Properties.Resources.resources
+E:\Progonka\Progonka\obj\x86\Debug\Progonka.csproj.GenerateResource.Cache
+E:\Progonka\Progonka\obj\x86\Debug\Progonka.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\Progonka\Progonka\obj\x86\Debug\Progonka.exe
+C:\Users\Александр\Desktop\Progonka\Progonka\obj\x86\Debug\Progonka.pdb
+C:\Users\Александр\Desktop\Progonka\Progonka\bin\Debug\Progonka.exe
+C:\Users\Александр\Desktop\Progonka\Progonka\bin\Debug\Progonka.pdb
+C:\Users\Александр\Desktop\Progonka\Progonka\obj\x86\Debug\Progonka.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\Progonka\Progonka\obj\x86\Debug\Progonka.Form1.resources
+C:\Users\Александр\Desktop\Progonka\Progonka\obj\x86\Debug\Progonka.Properties.Resources.resources
+C:\Users\Александр\Desktop\Progonka\Progonka\obj\x86\Debug\Progonka.csproj.GenerateResource.Cache
